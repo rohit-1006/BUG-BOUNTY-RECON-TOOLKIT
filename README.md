@@ -137,29 +137,6 @@ The toolkit covers the following reconnaissance and exploitation categories:
 
 ---
 
-## 🚀 Getting Started
-
-### Option 1: Use Online (Recommended)
-Visit **[https://recon-toolkit.netlify.app/](https://recon-toolkit.netlify.app/)** — no setup needed.
-
-### Option 2: Run Locally
-
-```bash
-# Clone the repository
-git clone https://github.com/rohit-1006/recon-toolkit.git
-
-# Navigate to the project directory
-cd recon-toolkit
-
-# Open in your browser
-open index.html
-# OR use a local server
-python3 -m http.server 8080
-# Then visit http://localhost:8080
-```
-
----
-
 ## 🎯 Usage
 
 1. **Open** the toolkit in your browser
@@ -197,23 +174,6 @@ sqlmap -u "https://example.com/page?id=1" --dbs
 
 ---
 
-## 📁 Project Structure
-
-```
-recon-toolkit/
-│
-├── index.html          # Main application entry point
-├── style.css           # Terminal-themed CSS styling
-├── script.js           # Core logic — command generation, DOM updates
-├── commands/           # (Optional) Modular command definitions
-│   ├── recon.js
-│   ├── web.js
-│   └── ...
-└── README.md           # Project documentation
-```
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Here's how you can help:
@@ -233,17 +193,6 @@ Contributions are welcome! Here's how you can help:
 - 🌍 Translations
 
 Please ensure all contributed commands are ethical, legal, and intended for authorized testing only.
-
----
-
-## 🔗 Related Projects by Rohit
-
-| Project | Description |
-|--------|-------------|
-| [ReconX](https://github.com/rohit-1006/ReconX) | Advanced GUI-based reconnaissance framework |
-| [SSRF-Hunter](https://github.com/rohit-1006/SSRF-Hunter) | Comprehensive SSRF detection tool for bug bounty hunters |
-| [Bug-Bounty-Hunting-Guide](https://github.com/rohit-1006/Bug-Bounty-Hunting-Guide) | Advanced bug bounty methodology & techniques |
-| [Ultimate-Security-Tools-Installer](https://github.com/rohit-1006/Ultimate-Security-Tools-Installer) | Automated security tools installation framework |
 
 ---
 
