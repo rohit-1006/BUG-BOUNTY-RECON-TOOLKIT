@@ -31,23 +31,6 @@
 
 ---
 
-## 📌 Table of Contents
-
-- [Overview](#-overview)
-- [Live Demo](#-live-demo)
-- [Features](#-features)
-- [Tool Categories](#-tool-categories)
-- [Screenshots](#-screenshots)
-- [Getting Started](#-getting-started)
-- [Usage](#-usage)
-- [Tech Stack](#-tech-stack)
-- [Project Structure](#-project-structure)
-- [Contributing](#-contributing)
-- [Author](#-author)
-- [License](#-license)
-
----
-
 ## 🔍 Overview
 
 The **Bug Bounty Recon Toolkit** is a comprehensive, browser-based platform that aggregates **80+ industry-standard security tools** with **250+ ready-to-use commands** across **25+ vulnerability categories**. Designed for penetration testers, bug bounty hunters, and security researchers, this toolkit streamlines the reconnaissance phase by generating customized, exploit-ready commands in real-time simply by entering a target domain.
@@ -203,17 +186,8 @@ Please ensure all contributed commands are ethical, legal, and intended for auth
 **Rohit** — Security Researcher · Penetration Tester · Bug Bounty Hunter
 
 [![GitHub](https://img.shields.io/badge/GitHub-rohit--1006-181717?style=for-the-badge&logo=github)](https://github.com/rohit-1006)
-[![HackerOne](https://img.shields.io/badge/HackerOne-Profile-F6851F?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com)
-[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-Profile-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Rohit10-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/Rohit10)
 
-```
-class Rohit:
-    role      = "Security Researcher & Tool Developer"
-    focus     = ["Web Application Security", "Bug Bounty", "Penetration Testing"]
-    languages = ["Python", "Bash", "JavaScript", "PowerShell"]
-    platforms = ["Kali Linux", "Parrot OS", "BlackArch"]
-```
 
 </div>
 
@@ -228,13 +202,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ## ⭐ Support
 
 If this toolkit helped your bug bounty workflow, consider giving it a **⭐ Star** — it means a lot!
-
-```
-[ root@phano ]$ echo "Thank you for using CYB3R_R3CON"
-Thank you for using CYB3R_R3CON
-
-CYBER RECON TOOLKIT © 2026 — Crafted by ROHIT
-```
 
 <div align="center">
 
