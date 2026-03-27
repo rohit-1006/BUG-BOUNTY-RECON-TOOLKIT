@@ -7,9 +7,6 @@
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-recon--toolkit.netlify.app-00FF41?style=for-the-badge&logoColor=white)](https://recon-toolkit.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-rohit--1006-181717?style=for-the-badge&logo=github)](https://github.com/rohit-1006)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Active-00FF41?style=for-the-badge)]()
-[![Tools](https://img.shields.io/badge/Tools-80%2B-red?style=for-the-badge)]()
-[![Commands](https://img.shields.io/badge/Commands-250%2B-orange?style=for-the-badge)]()
 
 </div>
 
